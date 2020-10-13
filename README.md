@@ -1,5 +1,7 @@
 # factcheck
 
+How to use: Type any fact you'd like to verify/check into the input box, hit the button or enter to get results.
+
 ## Project setup
 ```
 npm install
