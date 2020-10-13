@@ -10,7 +10,7 @@
     </div>
 
     <div class="checkCard">
-      <h3>The truth:</h3>
+      <h3>The Truth:</h3>
       <div v-for="review in reviewList" :key="review.url">
         <b>{{ review.publisher.name }}</b>
         rated this claim as "<b>{{ review.textualRating }}</b
