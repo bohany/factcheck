@@ -1,6 +1,6 @@
 <template>
   <form @submit.prevent="submitSearch" class="searchBar">
-    <input type="text" v-model="searchTerm" />
+    <input type="text" v-model="searchTerm" placeholder="ex: Bil Gates, 5G, etc." />
     <button type="submit"><b>CHECK FACT</b></button>
   </form>
       <!-- <p>testing: does results show in child: {{searchResults}}</p> -->
