@@ -14,10 +14,9 @@
       <div v-for="review in reviewList" :key="review.url">
         <b>{{ review.publisher.name }}</b>
         rated this claim as "<b>{{ review.textualRating }}</b
-        >". <br />
+        >". <br /><br />
         Source: "<a :href="review.url" target="_blank"> {{ review.title }} </a>"
-        <br />
-        - published {{ review.reviewDate.slice(0, 10) }}. <br />
+        ({{ review.reviewDate.slice(0, 10) }}). <br />
         <hr />
       </div>
     </div>
