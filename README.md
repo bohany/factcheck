@@ -1,6 +1,6 @@
 # Fact Checker
 
-This is a simple app that leverages the Google Fact Check API.  The user can check the truth/accuracy of claims made by any person or entity.  This was created for personal use during October 2020, during the height of disinformation regarding COVID-19, the U.S. Presidential election, and the Armenia-Azerbaijan conflict.
+This is a simple app that leverages the Google Fact Check API.  The user can check the truth/accuracy of claims made by any person or entity.  This app was created for personal use in October 2020, when there was rampant disinformation regarding COVID-19, the U.S. Presidential elections, and the Armenia-Azerbaijan conflict.
 
 ## How to use: 
 
