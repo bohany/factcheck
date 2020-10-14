@@ -1,6 +1,8 @@
 # factcheck
 
-How to use: Type any fact you'd like to verify/check into the input box, hit the button or enter to get results.
+A simple app that leverages the Google Fact Check API and allows the user to check for any factual claims made by any person or entity.
+
+How to use: Type any fact you'd like to verify or check into the input box, hit the button or hit enter to get the results.
 
 ## Project setup
 ```
