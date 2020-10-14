@@ -1,4 +1,5 @@
 <template>
+
   <div class="resultCard">
     <div class="claimCard">
       <h3>The Claim:</h3>
@@ -27,7 +28,8 @@
 export default {
   props: ["claim", "claimant", "date", "reviews"],
   data() {
-    return {};
+    return {
+    };
   },
   computed: {
     reviewList() {
@@ -39,14 +41,14 @@ export default {
 
 <style scoped>
 .resultCard {
-  transition: all .2s;
+  transition: all 0.2s;
   border-radius: 10px;
   background-color: rgba(201, 236, 204, 0.938);
   width: 95vw;
   margin: 1vmin;
   padding: 1vmin;
 }
-.resultCard:hover{
+.resultCard:hover {
   background-color: rgba(186, 238, 191, 0.973);
   box-shadow: 2px 3px 5px rgb(102, 102, 102);
 }
@@ -66,4 +68,5 @@ export default {
   margin: 1vmin;
   padding: 1vmin;
 }
+
 </style>
