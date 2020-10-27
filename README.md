@@ -4,7 +4,7 @@ This is a simple app that leverages the Google Fact Check API.  The user can che
 
 ## How to use: 
 
-Visit [the live app](https://fact-checker.netlify.app) to view and try the live version. Type any fact you'd like to verify or check into the input box, hit the button or hit enter to get the results.
+Visit the [live app here](https://factchecker.netlify.app) to view and try the live version. Type any fact you'd like to verify or check into the input box, hit the button or hit enter to get the results.
 
 ## Tools used:
 - Vue 3
