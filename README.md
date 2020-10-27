@@ -1,10 +1,10 @@
 # Fact Checker
 
-This is a simple app that leverages the Google Fact Check API.  The user can check the truth/accuracy of claims made by any person or entity.  This app was created for personal use in October 2020, when there was rampant disinformation regarding COVID-19, the U.S. Presidential elections, and the Armenia-Azerbaijan conflict.
+This is a simple app that leverages the Google Fact Check API.  The user can check the truth/accuracy of claims made by any person or entity.  This app was created for personal use in October 2020, when there was rampant disinformation regarding COVID-19, the U.S. Presidential elections, and the Armenian-Azerbaijan conflict.
 
 ## How to use: 
 
-Type any fact you'd like to verify or check into the input box, hit the button or hit enter to get the results.
+Visit [the live app](https://fact-checker.netlify.app) to view and try the live version. Type any fact you'd like to verify or check into the input box, hit the button or hit enter to get the results.
 
 ## Tools used:
 - Vue 3
