@@ -10,6 +10,7 @@ Type any fact you'd like to verify or check into the input box, hit the button o
 - Vue 3
 - CSS
 - Axios
+- Google Fact-checking API
 
 ## Project setup
 ```
