@@ -11,6 +11,7 @@ Visit [the live app](https://fact-checker.netlify.app) to view and try the live 
 - CSS
 - Axios
 - Google Fact-checking API
+- Netlify
 
 ## Project setup
 ```
